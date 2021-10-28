@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Esimene", "Esimene\Esimene.pyproj", "{A631AFCF-7FAE-44A1-9083-0C4935CE06AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A631AFCF-7FAE-44A1-9083-0C4935CE06AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A631AFCF-7FAE-44A1-9083-0C4935CE06AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819B779D-A4A6-4370-9EA6-EE2F335173EF}
+	EndGlobalSection
+EndGlobal
